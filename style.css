@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+#likeButton {
+    padding: 5px 10px;
+    border: none;
+    background-color: lightblue;
+    cursor: pointer;
+}
